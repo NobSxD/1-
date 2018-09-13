@@ -1,0 +1,414 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Regular;
+	
+}
+
+header{
+	background:  url(img/fon.png)  no-repeat center top /cover;
+	background-size: 100% 85%;
+	padding-top: 36px;
+	background-color: #fff;
+
+
+	
+		}
+.contener {
+		margin: 0 auto;
+		margin: 0 15%;
+		max-width: 1200px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+.contener2 {
+		margin: 0 auto;
+		margin: 0 15%;
+		max-width: 1200px;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+	}
+.contener3{
+		display: flex;
+		width: 50%;
+	}
+.logo{
+			
+	}
+.menu {
+		display: flex;
+		list-style-type:none;
+		font-size: 18pt;
+		
+	}
+
+	
+.menu a{
+
+		color: #ffffff;
+		text-decoration: none;
+		text-transform: uppercase;
+		padding: 10px;
+		}
+		li {
+			margin-left: 33px;
+		}
+.menu a:hover{
+		border:none;
+		border-radius: 10px;
+		background-color: #130e27;
+		}
+.par{
+		display: flex;
+		flex-direction: column;
+		margin-top: 140px;
+		font-size: 90pt;
+	}
+.ob{
+	display: flex;
+	flex-direction: column;
+}
+.form{
+		display: flex;
+		flex-direction: column;
+		width: 400px;
+		background-color: #fff;
+		border: none;
+		border-radius: 10px;
+		margin-top: 165px;
+		background-color: #fff;
+		box-shadow: 0 0 70px #000000;
+		
+	}
+.form input{
+	background-color: #eeeeee;
+	border: none;
+	width: 80%;
+	border-radius: 10px;
+	font-size: 18pt;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 5%;
+	padding-left: 15px;
+	border: none;
+	width: 355px;
+	height: 60px;
+}
+
+
+
+.groe { font-size: 22pt;
+		  color: #130e27;
+		  width: 80%;
+		  margin-top: 35px;
+		  text-transform: uppercase;
+		  text-align: center;
+		  display: flex;
+		  flex-direction: column;
+}
+
+.input{
+	display: flex;
+	justify-content: flex-start;
+	align-self: flex-start;
+	font-size: 20pt;
+}
+.input input{
+	display: inline-block;
+	margin-top: 0px;
+	width: 25px;
+	height: 25px;
+	background-color: #eeeeee;
+}
+.red input{
+	display: inline-block;
+	background-color: #c62314;
+	color: #fff;
+}
+.text {
+		color: #130e27;
+		margin: 0;
+		padding: 0;
+		font-size: 45pt;
+		
+	}
+.text2{
+		color: #ffffff;
+		margin: 0;
+		padding: 0;
+		font-size: 45pt;
+	}
+.text3{
+		font-size: 20pt;
+		color: #fff;
+		width: 424px;
+		margin-top: 60px;
+	}
+	
+
+.bl
+	{
+		text-transform: uppercase;
+		font-size: 25pt;
+		display: inline-block;
+		border: none;
+		padding: 25px 0px 25px 0px;
+		margin-top: 155px;
+
+	}
+.red{
+		display: flex;
+		color: #c62314;
+
+	}
+.bly{
+		display: flex;
+		color: #130e27;
+		margin-left: 20px;
+		
+	}
+.wid{
+		display: flex;
+		width: 1150px;
+		font-size: 50pt;
+	}
+.mag{
+
+		flex: 1 1 auto;
+		display: flex;
+		flex-direction: column;
+		align-self: auto;
+		padding: 20px;
+		font-size: 20pt;
+		align-items: center;
+
+	}
+.mag img{
+		max-height: 140px;
+	}
+	
+	
+.com{
+		text-align: center;
+		display: flex;
+		font-family: Regular;
+		font-size: 14pt;
+		color: #161616;
+		margin-top: 50px;
+		max-width: 160px;
+	}
+	
+.fer{
+		display: flex;
+		justify-content: space-between;
+	}
+.h3{
+		display: flex;
+		justify-content: space-between;
+		font-size: 20pt;
+		max-width: 70%;
+		color: #fff;
+		text-align: center;
+		margin-top: 35px;
+		margin-bottom: 35px;
+	}
+.sew{
+		display: flex;
+		justify-content: space-between;
+		height: 60px;
+		width: 270px;
+		margin-top: 35px;
+		margin-bottom: 35px;
+		font-size: 22pt;
+
+
+	}
+.sew a{
+		text-decoration: none;
+		text-transform: uppercase;
+		border: none;
+		border-radius: 10px;
+		background-color: #c62314;
+		font-size: 16pt;
+		color: #fff;
+		padding: 15px 45px;
+
+			}
+.fon2{
+	background-color: #130e27;
+	background-size: no-repeat center top / cover;
+	
+
+}
+.zag{
+	font-size: 50pt;
+	color: #130e27;
+	text-transform: uppercase;
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+	
+}
+.rr{
+	display: flex;
+	justify-content: space-around;
+}
+.fon3 {
+	background-color: #efefef;
+	background-size: no-repeat center top / cover;
+}
+.form6{
+	display: flex;
+	background-color: #fff;
+	flex-basis: 30%;
+	flex-direction: column;
+	margin-bottom: 10px;
+	
+}
+
+.l {
+	background: url(img/fr.png) no-repeat;
+	text-align: center;
+}
+
+
+.form6 p{
+	font-size: 22pt;
+	color: #130e27;
+	text-align: center;
+}
+.form6 h4{
+	font-size: 60pt;
+	color: #c62314;
+	text-align: center;
+	margin: 0 auto;
+}
+.form6 a{
+		color: #ffffff;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 22pt;
+		text-align: center;
+		border: none;
+		background-color: #130e27;
+		border-radius: 10px;
+		padding: 5px;
+		margin-left: 20%;
+		margin-right: 20%;
+		margin-bottom: 10px;
+}
+.form6 a:hover{
+	background-color: #c62314;
+}
+.fri{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	max-width: 50%;
+	font-size: 40pt;
+}
+.hh2{
+	display: flex;
+	justify-content: center;
+	font-size: 40pt;
+	color:#130e27;
+	text-align: center;
+	margin: 0 auto;
+	
+}
+.qw{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+
+}
+.mug{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+.fri p{
+	color: #130e27;
+	max-width: 350px;
+}
+.op{
+	display: flex;
+}
+
+.qw a{
+	text-decoration: none;
+}
+.qw p{
+	font-size: 16pt;
+}
+.qw p:hover {
+	color: #c62314;
+}
+
+.border{
+	margin-top: 50%;
+	
+}
+.los{
+	background-color: #efefef;
+	border: none;
+	border-radius: 20px;
+	margin-right: -60px;
+}
+.gol{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	max-width: 50%;
+
+
+}
+.h5{
+	display: flex;
+	justify-content: center;
+	font-size: 40pt;
+	color: #c62314;
+	text-align: center;
+	margin: 0 auto;
+}
+.gallery{
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+.gallery img{
+	display: flex;
+}
+.sec{   
+	font-size: 20pt;
+	color: #130e27;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+footer{
+	background-color: #130e27
+}
+.loss a{
+	text-decoration: none;
+	font-size: 20pt;
+	color: #fff;
+}
+.loss a:hover{
+	color: red;
+}
+.loss{
+	display: flex;
+	align-items: center;
+	min-height: 185px;
+}
+.loss2{
+	display: flex;
+	align-self:  center;
+	min-height: 70px;
+}
